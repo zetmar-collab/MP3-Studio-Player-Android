@@ -19,7 +19,7 @@ Suma SHA-256 wersji 1.1:
 - Odtwarza muzykę z telefonu, także w tle
 - Playlisty: tworzenie, import plików M3U, PLS i XSPF oraz eksport do M3U
 - Radio internetowe: wyszukiwanie według nazwy, kraju i gatunku oraz ulubione stacje
-- Podcasty: wyszukiwanie, dodawanie po adresie oznaczanie odsłuchanych odcinków oraz import i eksport listy podcastów (OPML)
+- Podcasty: wyszukiwanie, dodawanie po adresie, oznaczanie odsłuchanych odcinków oraz import i eksport listy podcastów (OPML)
 - Korektor dźwięku, jeśli urządzenie go udostępnia
 - Motyw jasny, ciemny lub systemowy, język polski i angielski
 
