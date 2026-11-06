@@ -28,7 +28,7 @@ Suma SHA-256 wersji 1.2:
 
 Nowości w tej wersji to Last.fm i kategorie podcastów. Kategorie przenoszą się w plikach OPML jako foldery. Instalacja na wcześniejszą wersję zachowuje dane.
 
-Aplikacja była testowana na emulatorze z Androidem 37, a wersja 1.0 także na telefonie. Wysyłanie utworów na prawdziwe konto Last.fm nie zostało jeszcze sprawdzone.
+Ta wersja była testowana na emulatorze z Androidem 37. Wysyłanie utworów na prawdziwe konto Last.fm nie zostało jeszcze sprawdzone.
 
 - Odsłuchane odcinki nie przenoszą się na inne urządzenie.
 - Część stacji radiowych odmawia połączenia. Aplikacja pokazuje wtedy komunikat.
