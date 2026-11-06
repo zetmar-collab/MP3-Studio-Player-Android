@@ -8,10 +8,10 @@ Plik APK znajdziesz w sekcji [Releases](https://github.com/zetmar-collab/MP3-Stu
 
 Telefon poprosi o zgodę na instalację z nieznanego źródła, bo aplikacja nie pochodzi ze sklepu.
 
-Suma SHA-256 wersji 1.0:
+Suma SHA-256 wersji 1.1:
 
 ```
-d8c9f809e25a6ada4a1440bbab2d6cb6f15c1f29868cb6d807b4091c23c3fc07
+860041cf279724eeddcad4638d65910923da032e0c9603905567b31967088917
 ```
 
 ## Co potrafi
@@ -19,15 +19,17 @@ d8c9f809e25a6ada4a1440bbab2d6cb6f15c1f29868cb6d807b4091c23c3fc07
 - Odtwarza muzykę z telefonu, także w tle
 - Playlisty: tworzenie, import plików M3U, PLS i XSPF oraz eksport do M3U
 - Radio internetowe: wyszukiwanie według nazwy, kraju i gatunku oraz ulubione stacje
-- Podcasty: wyszukiwanie, dodawanie po adresie i oznaczanie odsłuchanych odcinków
+- Podcasty: wyszukiwanie, dodawanie po adresie oznaczanie odsłuchanych odcinków oraz import i eksport listy podcastów (OPML)
 - Korektor dźwięku, jeśli urządzenie go udostępnia
 - Motyw jasny, ciemny lub systemowy, język polski i angielski
 
-## Stan wersji 1.0
+## Stan wersji 1.1
 
-To pierwsza wersja. Testowana na emulatorze z Androidem 37, jeszcze nie na fizycznym telefonie.
+Nowość w tej wersji to import i eksport listy podcastów (OPML), testowane na emulatorze z Androidem 37. Foldery z pliku OPML nie są zachowywane, a odsłuchane odcinki nie przenoszą się na inne urządzenie.
 
-- Nie ma jeszcze Last.fm, kategorii podcastów ani importu i eksportu OPML.
+Instalacja na wersję 1.0 zachowuje dane.
+
+- Nie ma jeszcze Last.fm ani kategorii podcastów.
 - Część stacji radiowych odmawia połączenia. Aplikacja pokazuje wtedy komunikat.
 
 ## Prywatność
