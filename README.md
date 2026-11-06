@@ -8,10 +8,10 @@ Plik APK znajdziesz w sekcji [Releases](https://github.com/zetmar-collab/MP3-Stu
 
 Telefon poprosi o zgodę na instalację z nieznanego źródła, bo aplikacja nie pochodzi ze sklepu.
 
-Suma SHA-256 wersji 1.2.1:
+Suma SHA-256 wersji 1.2.2:
 
 ```
-a7d7b0d11ad4a12cf3c6987a74bf9a4b8c8532350d309b12397b3436d9d5b580
+e68e0b1e1e794e8ef33833880985f12b5bd6f8b35287b206efa6adc259e039b6
 ```
 
 ## Co potrafi
@@ -24,9 +24,9 @@ a7d7b0d11ad4a12cf3c6987a74bf9a4b8c8532350d309b12397b3436d9d5b580
 - Korektor dźwięku, jeśli urządzenie go udostępnia
 - Motyw jasny, ciemny lub systemowy, język polski i angielski
 
-## Stan wersji 1.2.1
+## Stan wersji 1.2.2
 
-Ta wersja zamyka lukę z wersji 1.2: inna aplikacja na telefonie mogła dodać utwór do kolejki odtwarzania, także z podanym przez siebie wykonawcą i tytułem, które trafiłyby do Last.fm. Zalecana jest aktualizacja.
+Ta wersja zamyka lukę z wcześniejszych wersji: inna aplikacja na telefonie mogła dodać utwór do kolejki odtwarzania, także z podanym przez siebie wykonawcą i tytułem, które trafiłyby do Last.fm. Zalecana jest aktualizacja.
 
 Od wersji 1.2 są też Last.fm i kategorie podcastów. Kategorie przenoszą się w plikach OPML jako foldery. Instalacja na wcześniejszą wersję zachowuje dane.
 
